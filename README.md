@@ -12,11 +12,6 @@ Building AI-powered web applications using OpenAI API and LangChain.<br>Open-sou
 <p align="center">
 
   <img src="https://streak-stats.demolab.com?user=ankush850&theme=tokyonight" height="170"/>
-</p>
-
-
-</p>
-
 
 ---
 
