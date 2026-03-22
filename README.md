@@ -57,15 +57,6 @@ Deep Learning architectures and Fine-tuning Large Language Models (LLMs).<br>
           fetchpriority="high"
         />
       </td>
-      <td align="center">
-        <img
-          width="100%"
-          src="https://nirzak-streak-stats.vercel.app/?user=ankush850&theme=dark&background=000000&hide_border=true"
-          alt="GitHub Streak"
-        />
-      </td>
-    </tr>
-    <tr>
       <td colspan="2" align="center">
         <img
           src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankush850&layout=compact&bg_color=000000&title_color=3385ff&text_color=ffffff&hide_border=true&langs_count=8"
