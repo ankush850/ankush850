@@ -70,4 +70,10 @@ Deep Learning architectures and Fine-tuning Large Language Models (LLMs).<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankush850/ankush850/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<br clear="both">
+
 
