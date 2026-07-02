@@ -24,7 +24,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ankush_rawat1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-rawat-6bb006314/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankushr61723977) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankushsinghrawat154@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ankush_rawat1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-rawat-6bb006314/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankushr61723977) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/ankush_rawat1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankushsinghrawat154@gmail.com) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
@@ -68,5 +68,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br clear="both">
-
-
