@@ -48,7 +48,7 @@
       <td>
         <img
           width="100%"
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankush850&show_icons=true&bg_color=000000&title_color=3385ff&text_color=ffffff&icon_color=3385ff&hide_border=true"
+          src="https://github-readme-stats.shion.dev/api?username=ankush850&show_icons=true&bg_color=000000&title_color=3385ff&text_color=ffffff&icon_color=3385ff&hide_border=true"
           alt="GitHub Stats"
           loading="eager"
           fetchpriority="high"
