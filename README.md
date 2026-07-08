@@ -55,14 +55,21 @@
 
 ### 🐍 GitHub Visuals
 
+<table width="100%">
+<tr>
+<td width="50%">
 <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankush850/ankush850/output/github-snake-dark.svg">
      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankush850/ankush850/output/github-snake.svg">
      <img alt="Snake animation" src="https://raw.githubusercontent.com/ankush850/ankush850/output/github-snake.svg" width="100%">
 </picture>
-
+</td>
+<td width="50%">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankush850/ankush850/refs/heads/github-breakout/images/breakout-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankush850/ankush850/refs/heads/github-breakout/images/breakout-light.svg">
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/ankush850/ankush850/refs/heads/github-breakout/images/breakout-light.svg" width="100%">
 </picture>
+</td>
+</tr>
+</table>
