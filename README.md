@@ -1,30 +1,14 @@
-<table>
-<tr>
-
-<td width="40%">
-
 <p align="center">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="lang-dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="lang-light.gif">
-    <img width="100%" src="lang.gif" alt="lang image here"/>
+    <img width="50%" src="lang.gif" alt="lang image here"/>
 </picture>
 </p>
 
-</td>
-
-<td width="60%">
-    
- <img src="https://raw.githubusercontent.com/ankush850/ankush850/output/github-snake-dark.svg" alt="Snake animation" width="100%" height="120" />
-
-</td>
-
-</tr>
-</table>
-
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ankush_rawat1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-rawat-6bb006314/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankushr61723977) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/ankush_rawat1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankushsinghrawat154@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ankush_rawat1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-rawat-6bb006314/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankushr61723977) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/ankush_rawat1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankushsinghrawat154@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://ankush-007.vercel.app/)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
@@ -56,7 +40,7 @@
       </td>
       <td colspan="2" align="center">
         <img
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankush850&layout=compact&bg_color=000000&title_color=3385ff&text_color=ffffff&hide_border=true&langs_count=8"
+          src="https://stats.pphat.top/languages?username=ankush850"
           alt="Top Languages"
         />
       </td>
@@ -68,3 +52,17 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br clear="both">
+
+### 🐍 GitHub Visuals
+
+<picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankush850/ankush850/output/github-snake-dark.svg">
+     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankush850/ankush850/output/github-snake.svg">
+     <img alt="Snake animation" src="https://raw.githubusercontent.com/ankush850/ankush850/output/github-snake.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankush850/ankush850/refs/heads/github-breakout/images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankush850/ankush850/refs/heads/github-breakout/images/breakout-light.svg">
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/ankush850/ankush850/refs/heads/github-breakout/images/breakout-light.svg" width="100%">
+</picture>
