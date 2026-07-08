@@ -24,6 +24,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -40,13 +41,14 @@
       </td>
       <td colspan="2" align="center">
         <img
-          src="https://stats.pphat.top/languages?username=ankush850"
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankush850&layout=compact&bg_color=000000&title_color=3385ff&text_color=ffffff&hide_border=true&langs_count=8"
           alt="Top Languages"
         />
       </td>
     </tr>
   </table>
 </div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
