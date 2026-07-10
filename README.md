@@ -44,7 +44,7 @@ Hi 👋, I'm **Ankush Singh Rawat**.<br>
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <table>
@@ -54,13 +54,11 @@ Hi 👋, I'm **Ankush Singh Rawat**.<br>
           width="100%"
           src="https://github-readme-stats.shion.dev/api?username=ankush850&show_icons=true&bg_color=000000&title_color=3385ff&text_color=ffffff&icon_color=3385ff&hide_border=true"
           alt="GitHub Stats"
-          loading="eager"
-          fetchpriority="high"
         />
       </td>
-      <td colspan="2" align="center">
+      <td align="center">
         <img
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankush850&layout=compact&bg_color=000000&title_color=3385ff&text_color=ffffff&hide_border=true&langs_count=8"
+          src="https://readme-stats-github.pages.dev/api/top-langs?username=ankush850&theme=shadow&hide_border=true&layout=compact&count_private=true"
           alt="Top Languages"
         />
       </td>
