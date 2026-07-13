@@ -1,0 +1,37 @@
+name: Update SVG Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run automatically daily at midnight
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Run Stats Updater
+        run: python update_stats.py
+        
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dark_mode.svg light_mode.svg
+          # Only commit if there are changes
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Auto-update GitHub stats in SVG profile"
+            git push
+          else
+            echo "No changes to commit"
+          fi
