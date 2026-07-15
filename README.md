@@ -56,8 +56,25 @@ Hi 👋, I'm **Ankush Singh Rawat**.<br>
 
 ## 📊 GitHub Snapshot
 
-![](https://raw.githubusercontent.com/ankush850/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/ankush850/github-stats-transparent/output/generated/languages.svg)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          width="100%"
+          src="https://github-readme-stats.shion.dev/api?username=ankush850&show_icons=true&theme=dark&hide_border=true"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankush850&theme=dark"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ### ✍️ Random Dev Quote
