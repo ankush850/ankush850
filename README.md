@@ -54,27 +54,10 @@ Hi 👋, I'm **Ankush Singh Rawat**.<br>
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 
-### 📊 GitHub Snapshot
+## 📊 GitHub Snapshot
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          width="100%"
-          src="https://github-readme-stats.shion.dev/api?username=ankush850&show_icons=true&theme=dark&hide_border=true"
-          alt="GitHub Stats"
-        />
-      </td>
-      <td align="center">
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankush850&theme=dark"
-          alt="Top Languages"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+![](https://raw.githubusercontent.com/ankush850/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/ankush850/github-stats-transparent/output/generated/languages.svg)
 
 
 ### ✍️ Random Dev Quote
