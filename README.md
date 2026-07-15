@@ -68,7 +68,7 @@ Hi 👋, I'm **Ankush Singh Rawat**.<br>
       </td>
       <td align="center">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=ankush850&theme=transparent&hide_border=true&layout=compact&title_color=3385ff&text_color=ffffff"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankush850&theme=transparent"
           alt="Top Languages"
         />
       </td>
