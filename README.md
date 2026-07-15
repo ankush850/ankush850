@@ -54,10 +54,7 @@ Hi 👋, I'm **Ankush Singh Rawat**.<br>
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 
-## 📊 GitHub Snapshot
 
-![](https://raw.githubusercontent.com/ankush850/ankush850/output/overview.svg)
-![](https://raw.githubusercontent.com/ankush850/ankush850/output/languages.svg)
 
 
 ### ✍️ Random Dev Quote
