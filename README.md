@@ -74,6 +74,32 @@ Hi 👋, I'm **Ankush Singh Rawat**.<br>
 </table>
 
 
+### 💻 `> watch --animations`
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<sub><b>Terminal Life 🖥️</b></sub><br>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160"/>
+</td>
+<td align="center" width="25%">
+<sub><b>Build Passes ✅</b></sub><br>
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="160"/>
+</td>
+<td align="center" width="25%">
+<sub><b>3 AM Debugging 🌙</b></sub><br>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="160"/>
+</td>
+<td align="center" width="25%">
+<sub><b>Git Push to Prod 🚀</b></sub><br>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160"/>
+</td>
+</tr>
+</table>
+</div>
+
+
 <!-- ======= FOOTER ======= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
