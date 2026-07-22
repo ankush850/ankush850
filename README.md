@@ -30,16 +30,12 @@ Hi 👋, I'm **Ankush Singh Rawat**.<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ankush_rawat1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-rawat-6bb006314/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankushr61723977) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/ankush_rawat1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankushsinghrawat154@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://ankush-007.vercel.app/)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-inky-two-14.vercel.app/api?username=ankush850&show_icons=true&theme=dracula&include_all_commits=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-inky-two-14.vercel.app/api?username=ankush850&show_icons=true&theme=default&include_all_commits=true">
-    <img height="180" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=ankush850&show_icons=true&theme=dracula&include_all_commits=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=ankush850&theme=dracula&show_icons=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=ankush850&theme=default&show_icons=true">
-    <img height="180" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=ankush850&theme=dracula&show_icons=true" />
-  </picture>
+  <a href="https://github.com/ankush850/github-stats">
+    <img src="https://github.com/ankush850/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview (Dark)" />
+    <img src="https://github.com/ankush850/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Languages Used (Dark)" />
+    <img src="https://github.com/ankush850/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview (Light)" />
+    <img src="https://github.com/ankush850/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Languages Used (Light)" />
+  </a>
 </p>
 
 # 💻 Tech Stack:
@@ -86,8 +82,6 @@ Hi 👋, I'm **Ankush Singh Rawat**.<br>
 </tr>
 </table>
 
-
-### 💻 `> watch --animations`
 
 <div align="center">
 <table>
